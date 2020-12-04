@@ -1,0 +1,11 @@
+.form-div {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: cadetblue;
+  text-align: center;
+}
+.background {
+  background-color: #c1cdd7;
+}
